@@ -17,7 +17,8 @@ male akan names were identified by const maleDaysOfTheWeek and gender by string 
 Technologies used
  HTML
  CSS 
-JavaScript was the major one used
+JavaScript 
+bootstrap 5
 
 Contact information
 phone-0706717834
