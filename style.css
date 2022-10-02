@@ -1,0 +1,35 @@
+
+body{
+background-image: url("./images/crib.jpg");
+background-repeat: no-repeat;
+object-fit: cover;
+height: 200%;
+width: 100%;
+align-content: center;
+background-size: cover;
+
+
+      
+
+}
+.container{
+    width: 1000px;
+    padding: 60px;
+    margin: 10px;    
+    
+}
+  #gender{
+    background-color: bisque;
+
+}
+#dateOfBirth{
+  background-color: rgb(149, 204, 185);
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+h1{
+ color: blue;
+}
+  
+   
+
