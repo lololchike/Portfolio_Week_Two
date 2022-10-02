@@ -15,7 +15,7 @@ background-size: cover;
     
 }
   #gender{
-    background-color: bisque;
+    background-color: rgb(42, 195, 149);
 
 }
 #dateOfBirth{
@@ -26,6 +26,8 @@ background-size: cover;
 table{
   margin: 20px;
   padding: 50px;
+ border:2px solid rgb(172, 4, 4);border-spacing:25px"
+
 }
   
    
