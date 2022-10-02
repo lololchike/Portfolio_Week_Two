@@ -11,7 +11,8 @@ background-size: cover;
 .container{
     width: 1000px;
     padding: 60px;
-    margin: 10px;    
+    margin: 10px; 
+    text-align:center;
     
 }
   #gender{
@@ -29,6 +30,6 @@ table{
  border:2px solid rgb(172, 4, 4);border-spacing:25px"
 
 }
-  
+ 
    
 
