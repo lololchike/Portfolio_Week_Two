@@ -40,7 +40,7 @@ const day = new Date(DOB).getDay();
     
   document.getElementById(
     "output"
-  ).innerHTML = ` Hello your Akan name is ${name} and birth date of the week is ${DOB_Birth_Day}`;
+  ).innerHTML = ` Hello your Akan name is ${name} which means that you were born ${DOB_Birth_Day}`;
 });
 
 
