@@ -3,7 +3,7 @@ PROGECT-Name
 Akan names-Ghanian culture.
 
 project description
-In Ghana children are given their first name which corresponds to the day in the week they were born
+Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born
 
 Author(s) information
 Lucy Ipato Ololchike
