@@ -11,8 +11,9 @@ Setup instructions - includes any scripts that need to be run if necessary
 /*days of the week were identified by const daysOfTheWeek
 male akan names were identified by const maleDaysOfTheWeek and gender by string "1" and female akan names were identified by femaleDaysOfTheWeek and gender string "2*/
 //when you select your dob output given is Hello your Akan name is akan name and birth date of the week is given
-// dob is calculated by js thread
-
+// date of borth is calculated by js thread
+live link 
+https://lololchike.github.io/Portfolio_Week_Two/
 
 Technologies used
  HTML
