@@ -12,11 +12,13 @@ background-size: cover;
     width: 1000px;
     padding: 60px;
     margin: 10px; 
+    text-decoration-style: solid;
     
     
 }
   #gender{
     background-color: rgb(42, 195, 149);
+    
 
 }
 #dateOfBirth{
@@ -27,9 +29,15 @@ background-size: cover;
 table{
   margin: 20px;
   padding: 50px;
- border:2px solid rgb(172, 4, 4);border-spacing:25px"
-
+ border:2px solid rgb(113, 6, 6);border-spacing:25px"
 }
- 
+h1{
+color: cornflowerblue;
+padding: top 2px;
+margin:2px;
+}
+image{
+  align-items: center;
+} 
    
 
