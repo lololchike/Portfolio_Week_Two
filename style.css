@@ -39,5 +39,8 @@ margin:2px;
 image{
   align-items: center;
 } 
-   
+ #output{
+  background-color: rgb(138, 138, 204);
+  
+ }  
 
